@@ -1,0 +1,27 @@
+{
+  "name": "luhn-algorithm",
+  "version": "1.0.0",
+  "description": "The Luhn's Algorithm is an algorithm commonly used to validate credit card numbers and debit card numbers for online payment vendors. This easily allows retailers to tell if a credit card number is fake or random, and helps validate real numbers and separate real from fake.",
+  "main": "dist/Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lawsonDevvv/luhn-algorithm.git"
+  },
+  "author": "lawsonDevvv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lawsonDevvv/luhn-algorithm/issues"
+  },
+  "homepage": "https://github.com/lawsonDevvv/luhn-algorithm#readme",
+  "devDependencies": {
+    "@sapphire/prettier-config": "^1.4.4",
+    "@sapphire/ts-config": "^3.3.4",
+    "@types/node": "^18.7.14"
+  },
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
