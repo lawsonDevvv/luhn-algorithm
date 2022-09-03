@@ -74,7 +74,7 @@ After doing this, you may have to restart whatever command prompt or shell appli
 
 ### Compiling
 
-Run `tsc` in your command prompt while `cd`'d into whatever directory you cloned this repo into. It may take a while, but it should work.
+Run `tsc` in your command prompt while `cd`'d into whatever directory you cloned this repo into. It may take a while, but it should work. If you seee any errors, ignore them.
 
 ### Running
 
