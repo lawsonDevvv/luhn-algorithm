@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/lawsonDevvv/luhn-algorithm#readme",
   "devDependencies": {
-    "@sapphire/prettier-config": "^1.4.4",
+    "@sapphire/prettier-config": "^1.4.5",
     "@sapphire/ts-config": "^3.3.4",
     "@types/node": "^18.7.18"
   },
